@@ -6,3 +6,4 @@ This is a simple tennis game made using HTML and vanilla JS, where you play agai
 ##### Open game.html using your favorite browser
 
 ## Screenshot:
+![alt tag](https://user-images.githubusercontent.com/25058106/33663923-c7f6f89a-dab7-11e7-98bc-f067764fde30.png)
